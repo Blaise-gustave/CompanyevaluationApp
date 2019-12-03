@@ -1,3 +1,12 @@
 
 User.create(fullname: 'admin', email: 'admin@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'true')
-# User.create(fullname: 'blaise', email: 'blaise@gmail.com', telephone: '0787882305', password: '321654')
+User.create(fullname: 'kaka', email: 'kaka@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'lulu', email: 'lulu@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'sasa', email: 'sasa@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'papa', email: 'papa@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'a', email: 'a@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'ada', email: 'ada@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'mama', email: 'mama@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'fofo', email: 'fofo@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'keza', email: 'keza@gmail.com', telephone: '0787882305', password_digest: '123456', admin: 'false')
+User.create(fullname: 'blaise', email: 'blaise@gmail.com', telephone: '0787882305', password: '123456')
